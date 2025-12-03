@@ -1,0 +1,17 @@
+Cmd arguments:
+	https://www.geeksforgeeks.org/python/command-line-option-and-argument-parsing-using-argparse-in-python/
+	https://docs.python.org/3/howto/argparse.html
+Main in python script:
+	https://stackoverflow.com/questions/5544752/should-i-use-a-main-method-in-a-simple-python-script
+
+"With" statement:
+	https://www.geeksforgeeks.org/python/with-statement-in-python/
+
+Delete '\n' from file line:
+	https://www.w3schools.com/python/ref_string_strip.asp
+
+Extract dial count:
+	https://www.geeksforgeeks.org/python/python-list-slicing/
+
+Implement wrap-around:
+	https://www.geeksforgeeks.org/python/how-to-perform-modulo-with-negative-values-in-python/
